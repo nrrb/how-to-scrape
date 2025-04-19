@@ -29,3 +29,15 @@ if r.status_code==200:
   print("Here are the first 10 titles:")
   for work in works[:10]:
     print(work['title'])
+# Found 681 works for Thích Nhất Hạnh.
+# Here are the first 10 titles:
+# 365 méditations quotidiennes du Dalaï-Lama
+# Peace is every step
+# Walking the Noble Path
+# Spiritual Ecology
+# Els educadors feliços canvien el món
+# Els educadors feliços canvien el món
+# Els educadors feliços canvien el món
+# Els educadors feliços canvien el món
+# Per què existeix el món?
+# Plantant llavors
