@@ -18,15 +18,15 @@ pip install -r requirements.txt
 If you just want to run the code and see the output, you can run one of the following:
 
 ```bash
-python requests.py
-python requests_csv.py
-python requests_json.py
-python requests_pandas.py
-python requests_beautifulsoup.py
-python requests_beautifulsoup_fail.py
-python selenium_beautifulsoup.py
-python requests_useragent.py
-python selenium_useragent.py
+python example_requests.py
+python example_requests_csv.py
+python example_requests_json.py
+python example_requests_pandas.py
+python example_requests_beautifulsoup.py
+python example_requests_beautifulsoup_fail.py
+python example_selenium_beautifulsoup.py
+python example_requests_useragent.py
+python example_selenium_useragent.py
 ```
 
 If you'd like to try the code interactively and work with the data after the fact, I recommend using [IPython shell](https://pycon.switowski.com/05-repl/ipython/). You can run it with `ipython` and then paste in the code.
