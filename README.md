@@ -23,6 +23,7 @@ python requests_csv.py
 python requests_json.py
 python requests_pandas.py
 python requests_beautifulsoup.py
+python requests_beautifulsoup_fail.py
 python selenium_beautifulsoup.py
 python requests_useragent.py
 python selenium_useragent.py
