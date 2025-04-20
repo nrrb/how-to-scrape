@@ -25,7 +25,6 @@ python example_requests_csv.py
 python example_requests_json.py
 python example_requests_pandas.py
 python example_requests_beautifulsoup.py
-python example_requests_beautifulsoup_fail.py
 python example_selenium_beautifulsoup.py
 python example_requests_useragent.py
 python example_selenium_useragent.py
